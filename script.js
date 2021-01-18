@@ -37,5 +37,5 @@ function getTimeRemaining(endtime) {
     var timeinterval = setInterval(updateClock, 1000);
   }
    
-  let deadline = "September 13 2023"; 
+  let deadline = "January 30 2021"; 
   initializeClock('countdown', deadline);
